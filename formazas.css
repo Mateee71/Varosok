@@ -35,3 +35,19 @@ form{
 .elrejt{
     display: none;
 }
+article table{
+    width: 100%;
+    border-collapse: collapse;
+}
+article table th, td{
+    border: 1px solid coral;
+}
+
+article table tr:nth-child(odd){
+    background-color: peachpuff;
+}
+
+.kijelol{
+    cursor: pointer;
+    background-color: orange;
+}

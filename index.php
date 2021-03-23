@@ -17,9 +17,15 @@
                 <form class="urlap">
                     <label for="vnev">Városnév:</label><br>
                     <input type="text" id="vnev" name="vnev"><br>
-                    <p id="javaslat"></p>
+                    <div id="legordulo">
+                        
+                    </div>
                 </form> 
             </section>
+            <article>
+                
+            </article>
+                
             
             
         </main>
